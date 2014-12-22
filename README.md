@@ -36,15 +36,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Morando the tritameron of loue wherein certaine pleasaunt conceites, vttered by diuers woorthy perso
-#####Body#####
-THere dwelled in Bononia a certaine Knight called Signior Bonfadio, whose Prowesse in Martiall explo
-1. The seconde daies discourse.
 
-1. The third daies discourse.
+1. To the Right Honorable, Phillip Earle of Arundell, Robert Greene wisheth increase of honour, with the full fruition of perfect felicity.
+
+1. To the Gentlemen Readers Health.
+
+#####Body#####
+
+1. The Tritameron of Loue.
+THere dwelled in Bononia a certaine Knight called Signior Bonfadio, whose Prowesse in Martiall explo
+    _ The seconde daies discourse.
+
+    _ The third daies discourse.
 
 #####Back#####
-Morando the tritameron of loue wherein certaine pleasaunt conceites, vttered by diuers woorthy perso
+¶ Imprinted at London by I. Kingston for Edward VVhite, dwelling at the little North doore of S. Pau
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
